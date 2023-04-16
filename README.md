@@ -5,5 +5,6 @@ SPA - Desafio 10 - RocketSeat
 
 -React
 -TypeScript
+-TailWindcss
 
 Consumindo API-Weather
